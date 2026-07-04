@@ -1,0 +1,17 @@
+{
+  "name": "discord-multi-bot-launcher",
+  "version": "1.0.0",
+  "description": "Lanceur pour démarrer plusieurs bots Discord en simultané depuis un seul processus Node.js",
+  "main": "index.js",
+  "author": "nvortex-dev",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "comment-json": "^5.0.0",
+    "discord.js": "^14.26.4"
+  }
+}

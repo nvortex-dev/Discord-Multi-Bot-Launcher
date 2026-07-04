@@ -1,0 +1,18 @@
+{
+  // Liste de tous les bots à lancer.
+  // "name"    : doit correspondre EXACTEMENT au nom du fichier dans bots/ (sans .js)
+  // "token"   : le token du bot, récupérable sur https://discord.com/developers/applications
+  // "enabled" : true pour lancer le bot, false pour le désactiver sans le supprimer
+  "bots": [
+    {
+      "name": "bot1",
+      "token": "COLLE_ICI_LE_TOKEN_DU_BOT1",
+      "enabled": true
+    },
+    {
+      "name": "bot2",
+      "token": "COLLE_ICI_LE_TOKEN_DU_BOT2",
+      "enabled": true
+    }
+  ]
+}
