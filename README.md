@@ -25,7 +25,6 @@ discord-multi-bot-launcher/
 │       ├── events.js
 │       └── commands.js    # Répond à !hello et !info
 ├── config.example.json    # Template à copier (safe pour GitHub)
-├── config.json             # Config réelle avec vos tokens (ignoré par git)
 ├── index.js                 # Le launcher
 ├── package.json
 └── .gitignore
